@@ -1,10 +1,10 @@
-// public class rohito {
-//     public static void firstMethod(){
-//         List<String> listTest = new List<String>();
-//         listTest.add('Rohito1')
-//         console.log(listTest)
-//     }
-// }
+public class rohito {
+    public static void firstMethod(){
+        List<String> listTest = new List<String>();
+        listTest.add('Rohito1');
+        System.debug(listTest);
+    }
+}
 
 public class rohito {
     public static void firstMethod(){
